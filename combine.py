@@ -1,4 +1,4 @@
-#!/bin/python
+#!usr/bin/python
 
 # -append : append images horizontally
 # +append : append images vertically
