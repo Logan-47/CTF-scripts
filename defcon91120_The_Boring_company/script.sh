@@ -27,7 +27,6 @@ do
     then
         echo "This is a zip!"
         mv $filename $filename.zip
-        #$password = fcrackzip -v -D -u -p rockyou.txt $filename | grep " == "| cut -d' ' -f5
         password=$(fcrackzip -v -D -u -p ../rockyou.txt $filename.zip | grep " == "| cut -d' ' -f5)
         # echo $password
         unzip -P $password $filename.zip
