@@ -1,0 +1,4 @@
+found file 'flag', (size cp/uc  10617/ 10605, flags 9, chk 859c)
+checking pw 672xy606                                
+
+PASSWORD FOUND!!!!: pw == 57456570
