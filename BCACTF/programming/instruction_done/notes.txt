@@ -1,0 +1,16 @@
+Dear Agent Reffef,
+
+I have attached the super secret plans for operation 0x576f726b206f6e207468652070757a7a6c652c2073746f702072656164696e672068657821.
+You will need to decode it first though.
+
+The rules are simple:
+
+A line is "viable" if the length of a line is divisible by 3, and the line does not contain the `&` character. 
+
+For every viable line, you will grab the `n`th character, 
+where `n` is the corresponding number at the top of the file (Counting from one!) 
+The first viable line will use the first number, etc.
+
+Put all the letters together to find the answer!  
+
+- Agent Doposi

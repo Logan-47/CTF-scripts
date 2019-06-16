@@ -1,0 +1,5 @@
+decodeing hex gives: 0x576f726b206f6e207468652070757a7a6c652c2073746f702072656164696e672068657821
+Work on the puzzle, stop reading hex!
+
+python3 script.py
+bcactf{f0110w_tH3_r00lz_<3_l0ve_m3_pls}
