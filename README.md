@@ -1,4 +1,4 @@
 ## CTF-scripts
 
-scripts which i used to solve some  CTF challeges
+Scripts I used to solve some  CTF challeges
 
